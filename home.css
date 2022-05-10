@@ -11,12 +11,12 @@ body {
     z-index: -1;
     opacity:;
     background-origin: 0px 0px;
-    background: url(london5.jpg) no-repeat center center/cover;
+    background: url(/london5.jpg) no-repeat center center/cover;
 
 }
 /*
 .mission::before{
-background: url(/storage/emulated/0/Download/raj5.jpg) no-repeat center center/cover;
+background: url(/raj5.jpg) no-repeat center center/cover;
 content:"";
 position: absolute;
 left:0;
