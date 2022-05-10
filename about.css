@@ -1,0 +1,28 @@
+html{height: 100%;
+width: 100%;
+
+    
+}
+
+
+.aboutgreet{display: flex;
+justify-content: center;
+    border: 2px solid black;
+    
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    border: 2px solid black;
+    margin-top:2rem ;
+    overflow: auto;
+}
+
+
+.list{display: flex;
+
+    text-decoration: ;
+    
+    
+}
